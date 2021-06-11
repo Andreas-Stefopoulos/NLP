@@ -11,5 +11,5 @@ Libraries used for exercises.ipynb :
 * textblob    
 * sklearn        
 
-Files: 
-* [exercises](https://nbviewer.jupyter.org/github/Andreas-Stefopoulos/NLP/blob/main/exercises.ipynb)
+File in nbviewer in order to visualize plotly visuals: 
+URL : * [exercises](https://nbviewer.jupyter.org/github/Andreas-Stefopoulos/NLP/blob/main/exercises.ipynb)

@@ -1,6 +1,6 @@
 # NLP (Natural Language Process)
 
-Libraries used for exercises.ipynb :
+Libraries used for exercises.ipynb and exersice3.ipynb :
 * nltk   
 * pandas        
 * collections   
@@ -9,7 +9,8 @@ Libraries used for exercises.ipynb :
 * matplotlib       
 * cufflinks        
 * textblob    
-* sklearn        
+* sklearn  
+* seaborn      
 
 File in nbviewer in order to visualize plotly visuals: 
-URL : [exercise](https://nbviewer.jupyter.org/github/Andreas-Stefopoulos/NLP/blob/main/exercise.ipynb)
+URLs : [exercise](https://nbviewer.jupyter.org/github/Andreas-Stefopoulos/NLP/blob/main/exercise.ipynb), [exercise3](https://nbviewer.jupyter.org/github/Andreas-Stefopoulos/NLP/blob/main/exersice3.ipynb)
